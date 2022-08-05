@@ -1,2 +1,0 @@
-# NetflixChecker
-Netflix Checker [BETA]
